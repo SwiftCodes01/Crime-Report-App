@@ -1,8 +1,8 @@
 "use client";
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import Hambugger from "../assets/Group 1.png";
+// import Hambugger from "../assets/Group 1.png";
 import MobileNavMenu from "./MobileNavMenu";
 
 export default function Navbar() {
